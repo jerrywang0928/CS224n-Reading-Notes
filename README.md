@@ -1,6 +1,6 @@
 # CS224n-2019-Reading-Notes
 
-https://zhuanlan.zhihu.com/p/59011576
+知乎其他回答：https://zhuanlan.zhihu.com/p/59011576
 
 课程主页：[Stanford / Winter 2019](http://web.stanford.edu/class/cs224n/index.html)
 
